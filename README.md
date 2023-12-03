@@ -92,7 +92,7 @@ The edit button on each member, when clicked, should put the id of the member in
 
 #### 👉 TASK 3 - (OPTIONAL) Start Over From Scratch
 
-Delete the contents of `App.js` and challenge yourself to rebuild this form without any help. The moves practiced in this project are fundamental. Even if you don't take this challenge on right now, revisit it in the future. Consider this task a [Kata](https://en.wikipedia.org/wiki/Kata) you must master before applying for a React position.
+Delete the contents of `App.js` and challenge yourself to rebuild this form without any help. The moves practiced in this project are fundamental. Even if you don't take this challenge on right now, revisit it in the future. Consider this task a [Kata]() you must master before applying for a React position.
 
 ## FAQ
 
