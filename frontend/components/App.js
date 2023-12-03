@@ -81,7 +81,7 @@ export default function App() {
     let {fname, lname, bio} = target
 
 
-
+    setEditing(null);
     // find id of membr to edit
     return members.map( (member) => {
       if (member.id === editing) {
@@ -91,6 +91,7 @@ export default function App() {
       }
       
     })
+    
 
     // member in the `members` state whose id matches the `editing` state
   }
